@@ -30,8 +30,9 @@ The goal is to provide a comprehensive learning resource for those who want to e
 Here’s the ordered list of models that will be implemented, each based on influential papers. This list spans from foundational models to cutting-edge architectures.
 
 ### 1. **Perceptron & Multilayer Perceptron (MLP)**
-   - **Paper**: *The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain* (1958) by Frank Rosenblatt  
-   - **Link**: [Paper](https://www.sciencedirect.com/science/article/pii/S0893608008001905)
+   - **Paper**: *The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain* (1958) by Frank Rosenblatt
+   - **Paper**: *Learning representations by back-propagating errors* (1986) by David E. Rumelhart et al.
+   - **Link**: [Paper1](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf), [Paper2](https://www.nature.com/articles/323533a0#preview)
 
 ### 2. **LeNet-5 (Convolutional Neural Networks)**
    - **Paper**: *Gradient-Based Learning Applied to Document Recognition* (1998) by Yann LeCun et al.  
