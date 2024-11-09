@@ -34,14 +34,15 @@ Here’s the ordered list of models that will be implemented, each based on infl
    - **Paper**: *Learning representations by back-propagating errors* (1986) by David E. Rumelhart et al.
    - **Link**: [Paper1](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf), [Paper2](https://www.nature.com/articles/323533a0#preview)
 
-### 2. **Recurrent Neural Network (RNN)**
-   - **Paper**: Finding Structure in Time by Jeffrey L. Elman
-   - **Link**: [Paper1](https://doi.org/10.1207/s15516709cog1402_1)
 
-### 3. **LeNet (Convolutional Neural Networks)**
+### 2. **LeNet (Convolutional Neural Networks)**
    - **Paper**: *Backpropagation Applied to Handwritten Zip Code Recognition* (1989) by Y. LeCun et al.
    - **Paper**: *Gradient-Based Learning Applied to Document Recognition* (1998) by Yann LeCun et al.
    - **Link**: [Paper](http://yann.lecun.com/exdb/lenet/)
+
+### 3. **Recurrent Neural Network (RNN)**
+   - **Paper**: Finding Structure in Time by Jeffrey L. Elman (1990)
+   - **Link**: [Paper1](https://doi.org/10.1207/s15516709cog1402_1)
 
 ### 4. **LSTM (Long Short-Term Memory)**
    - **Paper**: *Long Short-Term Memory* (1997) by Sepp Hochreiter and Jürgen Schmidhuber
