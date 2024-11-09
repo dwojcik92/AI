@@ -29,10 +29,6 @@ The goal is to provide a comprehensive learning resource for those who want to e
 
 Here’s the ordered list of models that will be implemented, each based on influential papers. This list spans from foundational models to cutting-edge architectures.
 
-Apologies for the oversight! Here’s the corrected list of models in strict chronological order, with the additional models included:
-
----
-
 ### 1. **Perceptron & Multilayer Perceptron (MLP)**
    - **Paper**: *The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain* (1958) by Frank Rosenblatt
    - **Paper**: *Learning representations by back-propagating errors* (1986) by David E. Rumelhart et al.
